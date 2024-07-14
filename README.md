@@ -9,6 +9,7 @@ The system utilizes YOLOv5, an open-source deep learning model, to detect and cl
 <br>
 
 ## Demo
+https://github.com/user-attachments/assets/c0c10c23-5477-4497-b8e9-94d4448626ea
 
 <br>
 
